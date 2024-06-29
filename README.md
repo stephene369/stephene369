@@ -6,10 +6,10 @@ categories: ["programming", "developer","profile","python","AWS"]
 githubUsername: 'stephene369'
 ---
 
-![gif](https://github.com/stephene369/Command-/assets/81186886/34f3fa64-bdb7-4f7e-9656-656f6eaee50a)
+![gif](https://github.com/stephene369/stephene369/assets/81186886/acc585a9-d81b-4109-9373-14779b0058e6)
 
 
-## Hi I'm Stephene WANTCHEKON
+## Hi I'm Stephene WANTCHEKON ⭐️⭐️⭐️⭐️
 
 
 
@@ -61,4 +61,4 @@ githubUsername: 'stephene369'
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" style="fill: rgba(0, 0, 0, 1);transform: rotate(180deg);msFilter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2);"><path d="M4.222 19.778a4.983 4.983 0 0 0 3.535 1.462 4.986 4.986 0 0 0 3.536-1.462l2.828-2.829-1.414-1.414-2.828 2.829a3.007 3.007 0 0 1-4.243 0 3.005 3.005 0 0 1 0-4.243l2.829-2.828-1.414-1.414-2.829 2.828a5.006 5.006 0 0 0 0 7.071zm15.556-8.485a5.008 5.008 0 0 0 0-7.071 5.006 5.006 0 0 0-7.071 0L9.879 7.051l1.414 1.414 2.828-2.829a3.007 3.007 0 0 1 4.243 0 3.005 3.005 0 0 1 0 4.243l-2.829 2.828 1.414 1.414 2.829-2.828z"></path><path d="m8.464 16.95-1.415-1.414 8.487-8.486 1.414 1.415z"></path></svg>](https://wa.me/+22960877728)
 
 ---
-⭐️ From [Gaboso](https://github.com/Gaboso)
+⭐️⭐️⭐️ ⭐️
