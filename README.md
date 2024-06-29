@@ -6,7 +6,7 @@ categories: ["programming", "developer","profile","python","AWS"]
 githubUsername: 'stephene369'
 ---
 
-<img style="width: 100%;" src="https://github.com/stephene369/Command-/assets/81186886/34f3fa64-bdb7-4f7e-9656-656f6eaee50a"> </img>
+![gif](https://github.com/stephene369/Command-/assets/81186886/34f3fa64-bdb7-4f7e-9656-656f6eaee50a)
 
 
 ## Hi I'm Stephene WANTCHEKON
