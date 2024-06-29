@@ -9,7 +9,7 @@ githubUsername: 'stephene369'
 ![gif](https://github.com/stephene369/stephene369/assets/81186886/acc585a9-d81b-4109-9373-14779b0058e6)
 
 
-## Hi I'm Stephene WANTCHEKON ⭐️⭐️⭐️⭐️
+## Hi I'm Stephene WANTCHEKON ⭐️
 
 
 
